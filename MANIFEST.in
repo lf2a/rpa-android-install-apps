@@ -6,6 +6,7 @@ recursive-exclude * __pycache__
 recursive-exclude * *.py[co]
 
 recursive-include botAndroid/resources *
+recursive-include botAndroid/android/resources *
 
 # If including data files in the package, add them like:
 # include path/to/data_file
